@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.name{
+  color: rgb(52, 7, 94);
+  align-items: center;
+  display: flex;
+  margin-top: auto;
+  padding: 100px;
+  border: 10px inset rgb(211, 164, 203);
+}
+
+.Prof{
+  color: rgb(92, 52, 99);
+  display: flex;
+  margin-top: auto;
+  padding: 50px;
+  
+}
+
+.bio{
+  color :rgb(101, 19, 74);
+  display: flex;
+  margin-top: auto;
+  padding: 50px;
+}
+
+.image{
+width: 500px;
+float: left;
+}
